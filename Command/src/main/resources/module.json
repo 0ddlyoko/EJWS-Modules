@@ -1,0 +1,12 @@
+{
+  "name": "CommandManager",
+  "description": "EJWS - CommandManager",
+  "title": "EJWS - CommandManager",
+  "version": 1.0,
+  "authors": ["0ddlyoko"],
+  "dependencies": [],
+  "bugs": "https://github.com/0ddlyoko/EJWS-Modules/issues",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/0ddlyoko/EJWS-Modules/blob/master/LICENSE",
+  "url": "https://github.com/0ddlyoko/EJWS-Modules/CommandManager"
+}
